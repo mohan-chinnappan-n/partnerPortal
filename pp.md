@@ -5,6 +5,8 @@
 
 - ![Creating Partner Portal-2](img/partnerPortal-2.webm.gif)
 
+- ![LWR microsiste](img/sites-lwr-0.webm.gif)
+- ![LWR microsiste](img/sites-lwr-0-build.webm.gif)
 - ![LWR microsiste](img/sites-lwr-1.webm.gif)
 
 
